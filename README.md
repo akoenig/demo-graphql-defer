@@ -1,4 +1,4 @@
-# @akoenig/demo-graphql-demo
+# @akoenig/demo-graphql-defer
 
 This rapid demo application showcases the implementation of GraphQL's [@defer](https://github.com/graphql/graphql-wg/blob/main/rfcs/DeferStream.md) by leveraging [Fuse.js](https://fusejs.org/).
 
