@@ -1,0 +1,79 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bun@latest": {
+      "last_modified": "2023-12-13T22:54:10Z",
+      "resolved": "github:NixOS/nixpkgs/fd04bea4cbf76f86f244b9e2549fca066db8ddff#bun",
+      "source": "devbox-search",
+      "version": "1.0.17",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/rjqs1jkzvl9kzsdsdcrhyzvq08pmkd95-bun-1.0.17"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/cqndj4gqys87alw1fy98j06gjjplcgh7-bun-1.0.17"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/2vv40cmz6afciz5ddydz32s9kp7skq4c-bun-1.0.17"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/cjj43s3c17q2i1ncs4yynlwp0qrm8mf9-bun-1.0.17"
+        }
+      }
+    },
+    "flyctl@latest": {
+      "last_modified": "2023-12-08T01:14:17Z",
+      "resolved": "github:NixOS/nixpkgs/09dc04054ba2ff1f861357d0e7e76d021b273cd7#flyctl",
+      "source": "devbox-search",
+      "version": "0.1.131",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/lqk24ypr9k6zqz0xyaynsl7ay05nbsc9-flyctl-0.1.131"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/n74bmgrbgr9gfyx0ilcz33zdzwn38m7d-flyctl-0.1.131"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/agral0zakzhvd9fxw9i4zqpj80i8pg3z-flyctl-0.1.131"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/wng2m6p1l0mm8wj25v8c7zdd5p4nlch6-flyctl-0.1.131"
+        }
+      }
+    },
+    "nodePackages.pnpm@latest": {
+      "last_modified": "2023-12-13T22:54:10Z",
+      "resolved": "github:NixOS/nixpkgs/fd04bea4cbf76f86f244b9e2549fca066db8ddff#nodePackages.pnpm",
+      "source": "devbox-search",
+      "version": "8.10.5",
+      "systems": {
+        "aarch64-linux": {
+          "store_path": "/nix/store/16r331i5imngs5kfzkdnxa28n3ny14j0-pnpm-8.10.5"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/idw48sa6db5dfxz6mnakwbz9k9fjkppm-pnpm-8.10.5"
+        }
+      }
+    },
+    "nodejs@20": {
+      "last_modified": "2023-11-24T11:02:37Z",
+      "resolved": "github:NixOS/nixpkgs/068bacb9b6fbee6a603d1b1f68d7cf032c4feed1#nodejs_20",
+      "source": "devbox-search",
+      "version": "20.10.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/ya9wfsimhw3sjp7inn6kkn934i440kb8-nodejs-20.10.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/ryc5g0vdg8d3mm0ssawj27lqn5x238ji-nodejs-20.10.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/f49j6rczz3adfh8n8fmh8zfxhyh17ljv-nodejs-20.10.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/mih3j0yxng0xsad55787jqfbyi53rp0j-nodejs-20.10.0"
+        }
+      }
+    }
+  }
+}

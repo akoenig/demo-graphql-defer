@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const { nextFusePlugin } = require("fuse/next/plugin");
 
-module.exports = nextConfig
+const nextConfig = nextFusePlugin()({});
+
+module.exports = nextConfig;
